@@ -1,1 +1,6 @@
-# LED_ultrasonic
+# ロボットシステム学　課題２
+## 概要
+超音波センサで距離を測定し，計測距離が20cm以下の場合LEDを点灯させる．
+
+## 動画
+https://youtu.be/pF8e27JaIzI
