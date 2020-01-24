@@ -36,8 +36,6 @@ def reading(sensor):
         distance = timepassed * 17000
         return distance
         GPIO.cleanup()
-    else:
-        print "Incorrect usonic() function varible."
          
 i = 0
 
