@@ -3,4 +3,4 @@
 超音波センサで距離を測定し，計測距離が20cm以下の場合LEDを点灯させる．
 
 ## 動画
-https://youtu.be/pF8e27JaIzI
+https://youtu.be/q0W04Fbdm8c
