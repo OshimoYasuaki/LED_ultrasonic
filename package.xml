@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>LED_ultrasonic</name>
+  <name>led_ultrasonic</name>
   <version>0.0.0</version>
   <description>The LED_ultrasonic package</description>
 
